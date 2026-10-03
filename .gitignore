@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ข้อมูล (ป้องกันข้อมูลส่วนบุคคลหลุดขึ้น public)
+data/raw/*.csv
+data/processed/*.csv
+
+# ไฟล์ชั่วคราวของ notebook
+.ipynb_checkpoints/
