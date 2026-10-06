@@ -1,8 +1,7 @@
+streamlit
 pandas
 numpy
-scikit-learn
-imbalanced-learn
 matplotlib
-seaborn
 joblib
-streamlit
+scikit-learn==1.6.1
+imbalanced-learn
