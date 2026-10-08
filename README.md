@@ -92,7 +92,7 @@ student-dropout-prediction/
 ต้องใช้ Python 3.10 ขึ้นไป และต้องติดตั้ง **scikit-learn เวอร์ชันเดียวกับที่ใช้เทรนโมเดล** (ระบุไว้ใน `requirements.txt`) เพราะไฟล์ `.joblib` ผูกกับเวอร์ชันของไลบรารี
 
 ```bash
-git clone https://github.com/<ชื่อบัญชี>/student-dropout-prediction.git
+https://github.com/TalayPsu/student-dropout-prediction.git
 cd student-dropout-prediction
 
 python -m venv venv
