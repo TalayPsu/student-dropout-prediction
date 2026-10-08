@@ -95,7 +95,7 @@ student-dropout-prediction/
 git clone https://github.com/TalayPsu/student-dropout-prediction.git
 cd student-dropout-prediction
 
-python -m venv venv
+py -m venv venv
 venv\Scripts\activate            # Windows
 # source venv/bin/activate       # Mac / Linux
 
